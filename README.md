@@ -10,6 +10,3 @@ I'm Purnima Agrawal
 - C++
 - HTML
 - CSS <br>
-![Stats](https://github-readme-stats.vercel.app/api?username=PURNIMA1006&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PURNIMA1006&layout=compact&theme=tokyonight)
