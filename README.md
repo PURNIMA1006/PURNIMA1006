@@ -9,5 +9,7 @@ I'm Purnima Agrawal
 - C
 - C++
 - HTML
-- CSS
-<img src="https://media1.tenor.com/m/iEzhgk82pnIAAAAd/hello-hi.gif"width="400"/>
+- CSS <br>
+![Stats](https://github-readme-stats.vercel.app/api?username=PURNIMA1006&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PURNIMA1006&layout=compact&theme=tokyonight)
