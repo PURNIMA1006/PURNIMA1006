@@ -1,13 +1,6 @@
-## Hi there 👋
-I'm Purnima Agrawal
+# Hi 👋 I'm Purnima
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80%"/>
+</p>
 <br>
-💻Learning DSA in C++ <br>
-🌱Exploring web development <br>
-🚀Aspiring Software Engineer <br>
-
-## Skills 
-- C
-- C++
-- HTML
-- CSS <br>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+DSA;Learning+Web+Development;Aspiring+Software+Engineer" alt="Typing SVG" />
