@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,git,github,vscode,vercel&perline=5"/>
 
 </div>
 
@@ -62,18 +62,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PURNIMA1006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PURNIMA1006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -94,16 +82,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PURNIMA1006&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 - ✅ Solve 500+ DSA Problems
@@ -119,11 +97,11 @@
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/purnima-agrawal-0413b2384/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bu9J8jEdrRlib0k9u8fAeuw%3D%3D">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="purnimaagrawal100@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
