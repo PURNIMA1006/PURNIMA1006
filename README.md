@@ -62,6 +62,9 @@
 
 ---
 
+### Smart Campus Complaint Management System
+> A responsive web app to manage campus complaints
+
 # 🔥 GitHub Streak
 
 <div align="center">
