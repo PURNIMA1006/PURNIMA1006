@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,sql,git,github,vscode,vercel&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,git,github,vscode,vercel&perline=5"/>
 
 </div>
 
