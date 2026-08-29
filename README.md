@@ -20,7 +20,7 @@
 
 💡 Passionate about Software Development and Problem Solving
 
-🌱 Currently learning **Data Structures & Algorithms, JavaScript and Python**
+🌱 Currently learning **Data Structures & Algorithms**
 
 💻 Building projects to improve my development skills
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,git,github,vscode,vercel&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript,git,github,vscode,vercel&perline=5"/>
 
 </div>
 
@@ -43,8 +43,6 @@
 # 📚 Currently Learning
 
 - 📌 Data Structures & Algorithms (Striver A2Z Sheet)
-- 🌐 JavaScript
-- 🐍 Python
 - 🧠 Problem Solving
 - 🔥 Git & GitHub
 
