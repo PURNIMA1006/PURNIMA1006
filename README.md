@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Purnima Agrawal
+# Hi 👋, I'm Purnima Agrawal 
 
 ### 💻 B.Tech CSIT Student | DSA Enthusiast | Web Developer | Open Source Contributor
 
