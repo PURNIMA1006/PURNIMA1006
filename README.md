@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,git,github,vscode,vercel, ArduinoIDE&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,git,github,vscode,vercel &perline=5"/>
 
 </div>
 
@@ -76,9 +76,7 @@
 # 📈 Contribution Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PURNIMA1006&theme=tokyo-night"/>
-
 </div>
 
 ---
