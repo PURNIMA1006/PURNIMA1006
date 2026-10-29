@@ -55,13 +55,9 @@
 
 ---
 
-### 💻 DSA Repository
-> Solutions to DSA problems in **C++** following the Striver A2Z Sheet.
+### 💻 Ping Right
+> Mini CRM for small businesses.
 
----
-
-### Smart Campus Complaint Management System
-> A responsive web app to manage campus complaints
 
 # 🔥 GitHub Streak
 
