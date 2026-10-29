@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,mysql,git,github,vscode,arduino,vercel&perline=11"/>&nbsp;<img src="assets/antigravity.png" height="48" alt="Antigravity"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,mysql,git,github,vscode,arduino,vercel&perline=11"/>&nbsp;<img src="https://raw.githubusercontent.com/PURNIMA1006/PURNIMA1006/main/assets/antigravity.png" height="48" alt="Antigravity"/>
 
 </div>
 
