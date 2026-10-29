@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,git,github,vscode,arduino,vercel,antigravity&perline=6"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,mysql,git,github,vscode,arduino,vercel&perline=11"/>&nbsp;<img src="assets/antigravity.png" height="48" alt="Antigravity"/>
 
 </div>
 
