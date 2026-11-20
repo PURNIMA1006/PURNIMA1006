@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,mysql,git,github,vscode,arduino,vercel&perline=11"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,json,html,css,mysql,git,github,vscode,arduino,vercel&perline=11"/>
 </div>
 
 ---
